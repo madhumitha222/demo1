@@ -3,3 +3,4 @@ int main()
 {
 print("maddy")
 }
+return 0
